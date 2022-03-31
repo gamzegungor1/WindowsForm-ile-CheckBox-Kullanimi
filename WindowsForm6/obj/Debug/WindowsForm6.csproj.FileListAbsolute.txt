@@ -1,0 +1,10 @@
+C:\Users\gamze\source\repos\WindowsForm6\WindowsForm6\bin\Debug\WindowsForm6.exe.config
+C:\Users\gamze\source\repos\WindowsForm6\WindowsForm6\bin\Debug\WindowsForm6.exe
+C:\Users\gamze\source\repos\WindowsForm6\WindowsForm6\bin\Debug\WindowsForm6.pdb
+C:\Users\gamze\source\repos\WindowsForm6\WindowsForm6\obj\Debug\WindowsForm6.csproj.AssemblyReference.cache
+C:\Users\gamze\source\repos\WindowsForm6\WindowsForm6\obj\Debug\WindowsForm6.Form1.resources
+C:\Users\gamze\source\repos\WindowsForm6\WindowsForm6\obj\Debug\WindowsForm6.Properties.Resources.resources
+C:\Users\gamze\source\repos\WindowsForm6\WindowsForm6\obj\Debug\WindowsForm6.csproj.GenerateResource.cache
+C:\Users\gamze\source\repos\WindowsForm6\WindowsForm6\obj\Debug\WindowsForm6.csproj.CoreCompileInputs.cache
+C:\Users\gamze\source\repos\WindowsForm6\WindowsForm6\obj\Debug\WindowsForm6.exe
+C:\Users\gamze\source\repos\WindowsForm6\WindowsForm6\obj\Debug\WindowsForm6.pdb
